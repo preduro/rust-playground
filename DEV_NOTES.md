@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Reviewed codebase, identified areas for improvement
 - Updated CI cache strategy
+
+## 2026-03-30
+- Updated license year
+- Wrote notes on upcoming feature design
+- Refactored module structure for clarity
