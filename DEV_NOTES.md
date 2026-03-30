@@ -30,3 +30,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Wrote notes on upcoming feature design
 - Refactored module structure for clarity
+
+## 2026-03-30
+- Resolved TODO items from previous session
