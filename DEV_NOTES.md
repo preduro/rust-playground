@@ -36,3 +36,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Documented config options
+
+## 2026-04-06
+- Drafted initial implementation plan for v2
+- Documented config options
+- Removed unused variable declarations
